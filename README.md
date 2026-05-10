@@ -1,7 +1,7 @@
 ![Image](https://github.com/luooru/hi/blob/main/wallhaven-kxk577.jpg?raw=true)
 
 <p align="center">
-  <a href="https://luooru.straw.page/">s</a>traw　<img width="176" height="176" alt="image" src=https://dividers.crd.co/assets/images/gallery07/f7779fe6.gif?v=05d33f91 />
+  <a href="https://luooru.straw.page/">s</a>traw　<img width="120" height="20" alt="image" src=https://dividers.crd.co/assets/images/gallery07/f7779fe6.gif?v=05d33f91 />
 　<a href="https://luooru.atabook.org/">a</a>ta
   </p>
   <p align="center">
