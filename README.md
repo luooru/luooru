@@ -1,4 +1,4 @@
-<a href="https://luooru.straw.page/">artcreds</a>
+<a href="https://x.com/szgw48/">artcreds</a>
 </p>
 <p align="center">
 
