@@ -3,7 +3,7 @@
 <p align="center">
 
 
-<img width="640" height="430" alt="image" src="https://pbs.twimg.com/media/Gtao97ia8AA9HRT?format=jpg&name=small" />
+<img width="560" height="380" alt="image" src="https://pbs.twimg.com/media/Gtao97ia8AA9HRT?format=jpg&name=small" />
 
 <p align="center">
 
